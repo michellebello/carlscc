@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/carlscc/static/css/main.690c1598.css",
+    "main.js": "/carlscc/static/js/main.3545d607.js",
+    "static/js/787.39b7175a.chunk.js": "/carlscc/static/js/787.39b7175a.chunk.js",
+    "static/media/carl.png": "/carlscc/static/media/carl.66dd437059479699c83b.png",
+    "index.html": "/carlscc/index.html",
+    "main.690c1598.css.map": "/carlscc/static/css/main.690c1598.css.map",
+    "main.3545d607.js.map": "/carlscc/static/js/main.3545d607.js.map",
+    "787.39b7175a.chunk.js.map": "/carlscc/static/js/787.39b7175a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.690c1598.css",
+    "static/js/main.3545d607.js"
+  ]
+}
